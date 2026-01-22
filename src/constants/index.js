@@ -3,37 +3,36 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = ` ble web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
-
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const HERO_CONTENT = `I’m a freshman middle infielder who truly loves baseball and shows it through my hard work. Baseball is my favorite sport, and I take pride in putting in the extra time, whether it's early practice, late reps, or just getting better to help my team win games. I focus on clean fundamentals, consistent effort, and staying focused even when no one’s watching. My dream is to one day become an MLB player for the New York Mets.`
+export const ABOUT_TEXT = `I’m a dedicated baseball player who puts real effort into staying ready for the season. I work out four times a week to stay strong, quick, and prepared to compete. Outside of baseball, I enjoy spending time with friends and family, especially fishing in the summer. I take my academics seriously and keep my grades high because I know discipline in the classroom helps me stay on the field and succeed in life. At home, I focus on eating well, staying on top of my schoolwork, and relaxing with friends. I also challenge myself with 100 pushups and 40 pullups every day to keep my body strong and ready for the demands of the game.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2026 Season",
+    role: " ",
+    company: "Arlington Spyponders Freshman Baseball team",
+    description: ``,
+    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
   {
     year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    role: "",
+    company: "",
+    description: ``,
     technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
   {
     year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    role: "",
+    company: "",
+    description: ``,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
   {
     year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+    role: "",
+    company: "",
+    description: ``,
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
   },
 ];
