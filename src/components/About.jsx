@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/Jan-22-2023_FishingPic.jpeg";
 import { ABOUT_TEXT } from "../constants";
 import { motion}  from "framer-motion";
 const About = () => {

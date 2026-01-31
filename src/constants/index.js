@@ -1,10 +1,10 @@
-import project1 from "../assets/projects/project-1.jpg";
+import project1 from "../assets/projects/AlgorandHackathonPic.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I’m a freshman middle infielder who truly loves baseball and shows it through my hard work. Baseball is my favorite sport, and I take pride in putting in the extra time, whether it's early practice, late reps, or just getting better to help my team win games. I focus on clean fundamentals, consistent effort, and staying focused even when no one’s watching. My dream is to one day become an MLB player for the New York Mets.`
-export const ABOUT_TEXT = `I’m a dedicated baseball player who puts real effort into staying ready for the season. I work out four times a week to stay strong, quick, and prepared to compete. Outside of baseball, I enjoy spending time with friends and family, especially fishing in the summer. I take my academics seriously and keep my grades high because I know discipline in the classroom helps me stay on the field and succeed in life. At home, I focus on eating well, staying on top of my schoolwork, and relaxing with friends. I also challenge myself with 100 pushups and 40 pullups every day to keep my body strong and ready for the demands of the game.`;
+export const ABOUT_TEXT = `I’m a dedicated baseball player who puts rSep-13-2025_BaseballlPiceal effort into staying ready for the season. I work out four times a week to stay strong, quick, and prepared to compete. Outside of baseball, I enjoy spending time with friends and family, especially fishing in the summer. I take my academics seriously and keep my grades high because I know discipline in the classroom helps me stay on the field and succeed in life. At home, I focus on eating well, staying on top of my schoolwork, and relaxing with friends. I also challenge myself with 100 pushups and 40 pullups every day to keep my body strong and ready for the demands of the game.`;
 
 export const EXPERIENCES = [
   {
@@ -39,10 +39,10 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Algorand Hackathon",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "My first ever hackathon where we built an NAI where a parent could approve a budget for there child using crypto currency.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
@@ -69,7 +69,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "869 Massachusetts Avenue 02476",
+  phoneNo: "+1 617 999 0420 ",
+  email: "spkumar0122@gmail.com",
 };

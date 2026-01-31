@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/kevinRushProfile.png";
+import profilePic from "../assets/projects/Sep-13-2025_BaseballlPic.jpeg";
 import { motion } from "motion/react";
 import { HiDocumentDownload } from "react-icons/hi";
 const container = (delay) => ({
