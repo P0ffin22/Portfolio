@@ -60,10 +60,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
-    title: "Blogging Platform",
+    title: "MIT Bitcoin Expo 2025 Team Page",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "I helped create the team page for the MIT Bitcoin Expo team page. I updated the images and the linkedin urls.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
 ];
