@@ -70,6 +70,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "869 Massachusetts Avenue 02476",
-  phoneNo: "+1 617 999 0420 ",
+  phoneNo: "",
   email: "spkumar0122@gmail.com",
 };
