@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/AlgorandHackathonPic.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import project2 from "../assets/projects/MavenRealtyPic.jpg";
+import project3 from "../assets/projects/PortfolioScreenshot.png";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I’m a freshman middle infielder who truly loves baseball and shows it through my hard work. Baseball is my favorite sport, and I take pride in putting in the extra time, whether it's early practice, late reps, or just getting better to help my team win games. I focus on clean fundamentals, consistent effort, and staying focused even when no one’s watching. My dream is to one day become an MLB player for the New York Mets.`
@@ -46,10 +46,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Summer Real Estate Internship",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "I helped my dad by posting and showing apartments for our family Real Estate business. I built social networking skills using social media for advertisments.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
